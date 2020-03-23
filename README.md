@@ -10,6 +10,7 @@ MyColor is a simple script that give you a random color.
 -If you are undecided which color to choose for start something.
 
 ```
+
 ###DOWNLOAD:
 ```
 
