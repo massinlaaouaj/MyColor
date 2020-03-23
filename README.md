@@ -1,5 +1,5 @@
 # MyColor
-MyColor is a simple project that give you a random color.
+MyColor is a simple script that give you a random color.
 
 ### USES:
 ```
