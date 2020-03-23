@@ -11,7 +11,7 @@ MyColor is a simple script that give you a random color.
 
 ```
 
-###DOWNLOAD:
+### DOWNLOAD:
 ```
 
 git clone https://github.com/massinlaaouaj/MyColor
